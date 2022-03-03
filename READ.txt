@@ -1,0 +1,3 @@
+Buenas practivas VTIC CAR 
+Identeificacion de palabras por topico
+Elaboracion de WordCloud 
